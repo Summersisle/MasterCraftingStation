@@ -1,0 +1,3 @@
+displayName = Master Crafting Station
+author = Summersisle
+version = 0.1
